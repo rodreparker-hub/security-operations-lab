@@ -1,1 +1,0 @@
-# security-operations-lab
